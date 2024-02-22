@@ -3,7 +3,7 @@ let name = "Jonathan";
 let course = "Java";
 let edad = 16;
 
-// Se conoce como obajeto literal
+// Se conoce como objeto literal
 let personaje = {
   // llave - valor
   // Propiedad.

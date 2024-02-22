@@ -1,4 +1,4 @@
-let numero = 1; //Valores numericos.
+let numero = 1; //Valores numéricos.
 let texto = "Hola mundo"; //Valores texto:string.
 let verdadero = true; //Tipo boolean verdadero:falso.
 let falso = false;
